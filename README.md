@@ -51,12 +51,15 @@ Category Two defects are secondary defects that are more subtle and can only be 
 <br/>1.	What are the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, acidity, etc.?
 
 <br/>Obs: Aroma, flavor, Acidity, Body are the key attributes that impacts Coffee Quality much.
+![Page 1](https://github.com/user-attachments/assets/b278d27c-045f-49df-b95d-fa909ac65acb)
+
 
 <br/>2.	Is there a correlation between processing methods, origin regions, and coffee quality scores?
 
 <br/>Obs: 
 <br/>*The processing method impacts the coffee Bean attributes such as Acidity, Aroma, Body, Balance. 
 <br/>*Regions in high Altitude specifically regions above the equator produce good quality of coffee since they receive indirect sunlight and ample amount of water which are an important contributing factor in coffee quality
+![Page 2](https://github.com/user-attachments/assets/96cd1bfd-0b2a-4267-b5ba-f44f01b4e1c9)
 
 <br/>3.	Can we identify any trends or patterns in defect occurrences and their impact on overall coffee quality?
 
@@ -66,6 +69,7 @@ Category Two defects are secondary defects that are more subtle and can only be 
 <br/>*November, April & March Graded Beans has more defects. 
 <br/>*Beans with Moisture Range more than 10% has more defects.
 <br/>*Occurence of defects are higher if the range of altitude is 1000 or above
+![Page 3](https://github.com/user-attachments/assets/058e29db-6028-490b-a9bc-e6268352b1f9)
 
 <br/>4.	How do different variables interact to influence the Total Cup Points, which represent an overall measure of coffee quality?
 
@@ -74,3 +78,4 @@ Category Two defects are secondary defects that are more subtle and can only be 
 <br/>*Beans Processed with Double Anaerobic washed, Semi washed & Honey/Mossto methods has high Cup Points.
 <br/>*Castillo, Red Bourbon & Sl34+Gesha are top 3 Quality Beans when compared to Cup Points.
 <br/>*Ethiopia, Tanzania, Taiwan, Gautemela, Madagasarcar are the top 5 Countries.
+![Page 4](https://github.com/user-attachments/assets/9b4626fa-06dc-494e-8102-5f16737569ae)
