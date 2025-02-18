@@ -1,6 +1,9 @@
 # Coffee-Quality-Analysis
 *The primary goal of this project is to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality.
-<br/>*By systematically evaluating various parameters such as flavor, aroma, Body, consistency etc., the project aims to identify key factors influencing coffee quality. • This analysis will provide insights into optimizing Variety of Coffees, Processing Methods etc., and meeting consumer expectations more effectively.
+<br/>*By systematically evaluating various parameters such as flavor, aroma, Body, consistency etc., the project aims to identify key factors influencing coffee quality.
+<br/>*This analysis will provide insights into optimizing Variety of Coffees, Processing Methods etc., and meeting consumer expectations more effectively.
+![Roasted_coffee_beans](https://github.com/user-attachments/assets/e0f37379-40a5-4417-9a2a-ef3a631c937b)
+
 
 ## Business Objective & Constraints
 The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.
