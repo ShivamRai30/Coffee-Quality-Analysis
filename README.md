@@ -2,6 +2,7 @@
 *The primary goal of this project is to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality.
 <br/>*By systematically evaluating various parameters such as flavor, aroma, Body, consistency etc., the project aims to identify key factors influencing coffee quality.
 <br/>*This analysis will provide insights into optimizing Variety of Coffees, Processing Methods etc., and meeting consumer expectations more effectively.
+## Dashboard
 ![Homepage](https://github.com/user-attachments/assets/c7fa6635-9fb8-4910-8df7-8c576a5632f2)
 ![Page 1](https://github.com/user-attachments/assets/6e6954b4-3128-4cfe-96f0-12e5da323417)
 ![Page 2](https://github.com/user-attachments/assets/b8b89510-f3ea-476c-b16d-c7ba286b844a)
